@@ -278,6 +278,12 @@ Run `sv_standable_normal 0.7` in the game console.
 - [RoundDamageRecap](https://github.com/YuGeYu/LBTV-CS2-Bot-Enhancer/tree/main/addons/counterstrikesharp/plugins/RoundDamageRecap) by [YuGeYu](https://github.com/YuGeYu)
 - [Apple-Style-GUI](https://github.com/ed0ard/Apple-Style-GUI)
 
+## Additions in this fork
+
+- [`BotRandomizer/`](BotRandomizer) - fork of [CS2-Bot-Randomizer](https://github.com/ed0ard/CS2-Bot-Randomizer) 1.3.4 that adds a human SteamID whitelist, limits music kits to bots, and moves the cosmetic weights into `weights.json`
+- [`Launcher/`](Launcher) - WinForms front end covering environment checks, mode and difficulty switching, drop knives, the whitelist and weight editing, with one-click plugin install
+- [`docs/self-cosmetics.zh-CN.md`](docs/self-cosmetics.zh-CN.md) - deployment and usage notes
+
 ## License
 
 [GNU Affero General Public License v3.0](LICENSE), except `Panel/`, which is [PolyForm Strict 1.0.0](Panel/LICENSE)
