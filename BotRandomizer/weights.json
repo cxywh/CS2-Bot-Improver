@@ -1,0 +1,75 @@
+{
+  "knives": {
+    "500": 7,
+    "503": 3,
+    "505": 4,
+    "507": 21,
+    "508": 17,
+    "509": 3,
+    "515": 25,
+    "519": 2,
+    "522": 6,
+    "523": 5,
+    "525": 7
+  },
+  "gloves": {
+    "5030": 4,
+    "5034": 3,
+    "default": 2
+  },
+  "weaponRarity": {
+    "consumer": 1,
+    "industrial": 3,
+    "milSpec": 10,
+    "restricted": 22,
+    "classified": 23,
+    "covert": 40,
+    "contraband": 1
+  },
+  "stickerFinish": {
+    "paper": 43,
+    "glitter": 8,
+    "holo": 28,
+    "foil": 9,
+    "gold": 11,
+    "lenticular": 1
+  },
+  "stickerCraft": {
+    "clean": 35,
+    "single": 47,
+    "pair": 55,
+    "three": 63,
+    "four": 88
+  },
+  "keychain": {
+    "chanceNumerator": 7,
+    "chanceDenominator": 10
+  },
+  "knifeFinish": {
+    "Autotronic": 4,
+    "Black Laminate": 4,
+    "Blue Steel": 3,
+    "Boreal Forest": 3,
+    "Bright Water": 3,
+    "Case Hardened": 4,
+    "Crimson Web": 6,
+    "Damascus Steel": 3,
+    "Doppler": 10,
+    "Fade": 8,
+    "Forest DDPAT": 3,
+    "Freehand": 3,
+    "Gamma Doppler": 8,
+    "Lore": 5,
+    "Marble Fade": 5,
+    "Night": 3,
+    "Night Stripe": 2,
+    "Rust Coat": 3,
+    "Safari Mesh": 2,
+    "Scorched": 3,
+    "Slaughter": 6,
+    "Stained": 3,
+    "Tiger Tooth": 4,
+    "Ultraviolet": 3,
+    "Urban Masked": 4
+  }
+}
