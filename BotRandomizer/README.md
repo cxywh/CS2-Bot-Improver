@@ -57,7 +57,7 @@
 | `knives` | 各刀型相对权重 |
 | `knifeFinish` | 刀皮偏好权重 |
 | `gloves` | 手套相对权重 |
-| `rarity` | 枪皮稀有度权重 |
+| `weaponRarity` | 枪皮稀有度权重 |
 | `stickerFinish` | 印花 finish 权重 |
 | `stickerCraft` | 印花张数档位阈值，须递增 |
 | `keychain` | 挂件出现概率，`chanceNumerator` 不大于 `chanceDenominator` |

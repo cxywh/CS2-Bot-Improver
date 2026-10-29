@@ -286,6 +286,12 @@ negev     m249
 - [RoundDamageRecap](https://github.com/YuGeYu/LBTV-CS2-Bot-Enhancer/tree/main/addons/counterstrikesharp/plugins/RoundDamageRecap)，作者 [YuGeYu](https://github.com/YuGeYu)
 - [Apple-Style-GUI](https://github.com/ed0ard/Apple-Style-GUI)
 
+## 附加组件
+
+- [`BotRandomizer/`](../BotRandomizer)：[CS2-Bot-Randomizer](https://github.com/ed0ard/CS2-Bot-Randomizer) 1.3.4 的衍生版本，增加真人 SteamID 白名单、音乐盒仅写入 bot、权重外置至 `weights.json`
+- [`Launcher/`](../Launcher)：本地人机局配置前端，覆盖环境检查、模式与难度切换、掉落刀具、真人白名单、随机权重，并提供一键安装插件
+- [`self-cosmetics.zh-CN.md`](self-cosmetics.zh-CN.md)：部署与使用说明
+
 ## 许可证
 
 [GNU Affero General Public License v3.0](LICENSE)，但 `Panel/` 除外，该目录适用 [PolyForm Strict 1.0.0](Panel/LICENSE)
