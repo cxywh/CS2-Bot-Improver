@@ -8,7 +8,7 @@
 | --- | --- |
 | 可用环境 | 仅限本地人机对局：单机客户端加载插件，与 bot 对战 |
 | 禁止环境 | 任何多人服务器，包括自建专用服务器、局域网或公网联机、第三方社区服、Valve 官方匹配、FACEIT |
-| 启动要求 | 命令行须包含 `-insecure` 或 `-dedicated`，否则 Metamod 不加载 |
+| 启动要求 | 命令行须包含 `-insecure`，否则 Metamod 不加载 |
 | 依赖 | Metamod:Source、CounterStrikeSharp（本仓库不包含） |
 
 `BotRandomizer` 仅在服务端构造经济物品数据，不修改 Steam 库存、不修改客户端资源。白名单中的账号在本地对局中获得与 bot 相同的随机外观，白名单为空时仅 bot 生效。
