@@ -292,6 +292,8 @@ negev     m249
 - [`Launcher/`](../Launcher)：本地人机局配置前端，覆盖环境检查、模式与难度切换、掉落刀具、真人白名单、随机权重，并提供一键安装插件
 - [`self-cosmetics.zh-CN.md`](self-cosmetics.zh-CN.md)：部署与使用说明
 
+**适用范围。**上述附加组件仅限本地人机对局使用，禁止用于任何多人服务器，包括自建专用服务器、局域网或公网联机、第三方社区服、Valve 官方匹配与 FACEIT。
+
 ## 许可证
 
 [GNU Affero General Public License v3.0](LICENSE)，但 `Panel/` 除外，该目录适用 [PolyForm Strict 1.0.0](Panel/LICENSE)

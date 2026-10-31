@@ -284,6 +284,8 @@ Run `sv_standable_normal 0.7` in the game console.
 - [`Launcher/`](Launcher) - WinForms front end covering environment checks, mode and difficulty switching, drop knives, the whitelist and weight editing, with one-click plugin install
 - [`docs/self-cosmetics.zh-CN.md`](docs/self-cosmetics.zh-CN.md) - deployment and usage notes
 
+**Scope.** These additions are limited to local bot matches. They must not be used on any multiplayer server, including self-hosted dedicated servers, LAN or internet play, third-party community servers, official matchmaking and FACEIT.
+
 ## License
 
 [GNU Affero General Public License v3.0](LICENSE), except `Panel/`, which is [PolyForm Strict 1.0.0](Panel/LICENSE)

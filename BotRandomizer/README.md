@@ -78,4 +78,4 @@ game/csgo/addons/counterstrikesharp/plugins/BotRandomizer/
 
 - 服务端或客户端须以 `-insecure` 或 `-dedicated` 启动，否则 Metamod 与 CounterStrikeSharp 不会加载
 - `addons/counterstrikesharp/configs/core.json` 中 `FollowCS2ServerGuidelines` 须为 `false`
-- 仅适用于自建服务器与本地人机局
+- 仅限本地人机对局，禁止用于任何多人服务器（含自建专用服务器、局域网或公网联机、第三方社区服）

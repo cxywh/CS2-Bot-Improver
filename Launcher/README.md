@@ -69,6 +69,7 @@ self_steamids.txt
 - Windows 10 1809 或更高版本
 - 以 `-insecure` 启动 CS2，Metamod 与 CounterStrikeSharp 方可加载
 - 需要预先安装 Metamod:Source 与 CounterStrikeSharp
+- 仅用于本地人机对局，禁止在存在其他真人玩家的任何多人服务器中使用
 
 ## 实现约定
 
